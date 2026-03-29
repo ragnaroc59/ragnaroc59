@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Zeynel
+### Lead Développeur Java Backend | Spring Boot & Microservices
 
-<!--
-**ragnaroc59/ragnaroc59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fort de 9 années d’expérience dans des environnements exigeants (Retail, Banque & Assurance), j’accompagne les équipes techniques dans la conception, le développement et le déploiement d'architectures backend solides.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Mon Activité GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ragnaroc59&show_icons=true&theme=dracula&count_private=true&hide_border=true&bg_color=0D1117" alt="Statistiques de Zeynel" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragnaroc59&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Langages les plus utilisés" />
+</div>
