@@ -1,4 +1,4 @@
-#  Bonjour, je suis Zeynel
+#  Bonjour
 ### Lead Développeur Java Backend | Spring Boot & Microservices
 
 Fort de 9 années d’expérience dans des environnements exigeants , j’accompagne les équipes techniques dans la conception, le développement et le déploiement d'architectures backend solides.
